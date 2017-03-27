@@ -1,2 +1,5 @@
 # marvel-showcase-app
-The ultimate Marvel Super Hero Catalog.
+The ultimate Marvel SuperHero Catalog.
+
+
+an App written in React-Native
